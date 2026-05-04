@@ -1,4 +1,4 @@
-namespace Modernizacion.AppMVC.Models
+namespace ESFE.WebApplication.Models
 {
     public class ErrorViewModel
     {
