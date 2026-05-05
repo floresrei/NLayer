@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="Controllers\ESFE.Entities\ESFE.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
